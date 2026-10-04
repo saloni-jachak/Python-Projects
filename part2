@@ -1,0 +1,17 @@
+#Arithematic Operator 
+a = 5 
+b = 2 
+sum = a + b 
+print (sum)
+print ( a - b )
+print ( a * b )
+print ( a / b )
+print ( a % b ) #Modulo gives us reminder 
+print ( a ** b ) #gies us power a^b 
+
+#Relational Operators - output will be in boolen value 
+a = 50 
+b = 20 
+print ( a == b ) #False  - output 
+print ( a != b ) #True  - output 
+print ( a > b ) # True 
